@@ -12,15 +12,15 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.jannagoldstein.nl/recipes"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React I guess
+          My vegan recipes 🥑
         </a>
-        <h2>
-          Hello, Internet 😎!
-        </h2> 
+        <em>
+          1312
+        </em> 
       </header>
     </div>
   );
